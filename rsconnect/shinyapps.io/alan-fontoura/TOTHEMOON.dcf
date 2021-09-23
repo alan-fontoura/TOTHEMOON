@@ -1,0 +1,14 @@
+name: TOTHEMOON
+title: TOTHEMOON
+username:
+account: alan-fontoura
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4672539
+bundleId: 5062549
+url: https://alan-fontoura.shinyapps.io/TOTHEMOON/
+when: 1632369151.85087
+lastSyncTime: 1632369151.85087
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|main.R|main.RData|data2
